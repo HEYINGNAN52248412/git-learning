@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Spiderman is the best.
-=======
-“Batman is the Best.”
->>>>>>> rival
+They are all the best
